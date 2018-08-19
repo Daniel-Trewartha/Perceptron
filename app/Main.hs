@@ -1,6 +1,7 @@
 module Main where
 
-import Lib
+import TwoDimShapes
+import Perceptron
 
 main :: IO ()
 main = print test where
